@@ -32,6 +32,10 @@ Implementation examples:
 ```typescript
 ```
 
+## Bloom Filter
+```typescript
+```
+
 ## SSTable
 ```typescript
 ```
