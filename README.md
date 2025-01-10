@@ -1,4 +1,4 @@
-# wal-lsm-tree-sstable-summary
+# wal-lsm-tree-sstable-indexes-summary
 
 ![lsm-tree](assets/images/lsm.jpg)
 
